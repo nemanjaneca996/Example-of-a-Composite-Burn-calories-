@@ -1,0 +1,10 @@
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\bin\Debug\FizickaAktivnost.exe.config
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\bin\Debug\FizickaAktivnost.exe
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\bin\Debug\FizickaAktivnost.pdb
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.Form1.resources
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.Properties.Resources.resources
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.csproj.GenerateResource.cache
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.exe
+C:\Users\Nemanja\source\repos\FizickaAktivnost\FizickaAktivnost\obj\Debug\FizickaAktivnost.pdb
